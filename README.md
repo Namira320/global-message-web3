@@ -1,4 +1,4 @@
-Here is the adapted `README.md` for the **Global Message Board DApp**, tailored to match the Rust smart contract structure from the previous response.
+
 
 ---
 
